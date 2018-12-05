@@ -2,6 +2,13 @@
 **Description**: This is our team Git repository package for the ISQA 8086-002 class.
 
 ### List of files in the repository
+* Data
+    * [SS_Crooked Lake Prairie.csv](https://github.com/ruhidamda/apple-mango-banana/blob/master/Data/SS_Crooked%20Lake%20Prairie.csv)
+    * [SS_Crooked Lake Sandhil.csv](https://github.com/ruhidamda/apple-mango-banana/blob/master/Data/SS_Crooked%20Lake%20Sandhil.csv)
+    * [SS_Crooked Lake West -Lewis.csv](https://github.com/ruhidamda/apple-mango-banana/blob/master/Data/SS_Crooked%20Lake%20West%20-Lewis.csv)
+    * [SS_Crooked Lake West -Stuart.csv](https://github.com/ruhidamda/apple-mango-banana/blob/master/Data/SS_Crooked%20Lake%20West%20-Stuart.csv)
+    * [SS_Hickory Lake Scrub.csv](https://github.com/ruhidamda/apple-mango-banana/blob/master/Data/SS_Hickory%20Lake%20Scrub.csv)
+    * [WaterDataClean.csv](https://github.com/ruhidamda/apple-mango-banana/blob/master/Data/WaterDataClean.csv)
 * WorkPlanAndResearchQuestions
   * [Work Plan and Research Questions.md](https://github.com/ruhidamda/apple-mango-banana/blob/master/WorkPlanAndResearchQuestions/Work%20Plan%20and%20Research%20Questions.md)
   * [GanntChart_PolkCo.pdf](https://github.com/ruhidamda/apple-mango-banana/blob/master/GanntChart_PolkCo.pdf)
@@ -17,22 +24,13 @@
   * [WaterDataClean.xlsx](https://github.com/ruhidamda/apple-mango-banana/blob/master/DataCleaningDocumentation/WaterDataClean.xlsx)
   * [Burn history.xlsx](https://github.com/ruhidamda/apple-mango-banana/blob/master/DataCleaningDocumentation/Burn%20history.xlsx)
 * RScript
-  * Data
-    * [SS_Crooked Lake Prairie.csv](https://github.com/ruhidamda/apple-mango-banana/blob/master/RScript/Data/SS_Crooked%20Lake%20Prairie.csv)
-    * [SS_Crooked Lake Sandhil.csv](https://github.com/ruhidamda/apple-mango-banana/blob/master/RScript/Data/SS_Crooked%20Lake%20Sandhil.csv)
-    * [SS_Crooked Lake West -Lewis.csv](https://github.com/ruhidamda/apple-mango-banana/blob/master/RScript/Data/SS_Crooked%20Lake%20West%20-Lewis.csv)
-    * [SS_Crooked Lake West -Stuart.csv](https://github.com/ruhidamda/apple-mango-banana/blob/master/RScript/Data/SS_Crooked%20Lake%20West%20-Stuart.csv)
-    * [SS_Hickory Lake Scrub.csv](https://github.com/ruhidamda/apple-mango-banana/blob/master/RScript/Data/SS_Hickory%20Lake%20Scrub.csv)
-    * [WaterDataClean.csv](https://github.com/ruhidamda/apple-mango-banana/blob/master/RScript/Data/WaterDataClean.csv)
   * [R Scripts.Rmd](https://github.com/ruhidamda/apple-mango-banana/blob/master/RScript/R%20Scripts.Rmd)
   * [R_Scripts.html](https://github.com/ruhidamda/apple-mango-banana/blob/master/RScript/R_Scripts.html)
   * [SSanalysis.r](https://github.com/ruhidamda/apple-mango-banana/blob/master/RScript/SSanalysis.R)
-  * [Data](https://github.com/ruhidamda/apple-mango-banana/tree/master/RScript/Data)
 * RPlot
   * [Contributorship Statement.md](https://github.com/ruhidamda/apple-mango-banana/blob/master/RPlot/Contributorship%20Statement.md) 
   * [R Scripts.Rmd](https://github.com/ruhidamda/apple-mango-banana/blob/master/RPlot/R%20Scripts.Rmd)
   * [R_Scripts.html](https://github.com/ruhidamda/apple-mango-banana/blob/master/RPlot/R_Scripts.html)
-  * [Data](https://github.com/ruhidamda/apple-mango-banana/tree/master/RPlot/Data)
   
   
 ### License
