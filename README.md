@@ -30,9 +30,7 @@
   * [Data](https://github.com/ruhidamda/apple-mango-banana/tree/master/RScript/Data)
 * RPlot
   * [Contributorship Statement.md](https://github.com/ruhidamda/apple-mango-banana/blob/master/RPlot/Contributorship%20Statement.md) 
-  * [R Plots.Rmd](https://github.com/ruhidamda/apple-mango-banana/blob/master/RPlot/R%20Plots.Rmd)
   * [R Scripts.Rmd](https://github.com/ruhidamda/apple-mango-banana/blob/master/RPlot/R%20Scripts.Rmd)
-  * [R_Plots.html](https://github.com/ruhidamda/apple-mango-banana/blob/master/RPlot/R_Plots.html)
   * [R_Scripts.html](https://github.com/ruhidamda/apple-mango-banana/blob/master/RPlot/R_Scripts.html)
   * [Data](https://github.com/ruhidamda/apple-mango-banana/tree/master/RPlot/Data)
   
